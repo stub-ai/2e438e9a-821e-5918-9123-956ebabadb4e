@@ -1,1 +1,1 @@
-{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"create a comprehensive mortgage calculator","md5":"c5866d334d0b92c88f9ca13317d224cb"},{"prompt":"hola","md5":"6e1d66b29a4a9bb1754a0474c42e3fd5"}]}
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"create a comprehensive mortgage calculator","md5":"c5866d334d0b92c88f9ca13317d224cb"},{"prompt":"change all words to Spanish language","md5":"fa56c23f01029825a2c6ada58acfdfda"}]}
